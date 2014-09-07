@@ -1,0 +1,29 @@
+{
+  "name": "json-request-validation",
+  "version": "0.0.0",
+  "description": "validate incoming json datatype is string, object, array, empty string, email address.",
+  "main": "index.js",
+  "scripts": {
+    "test": "hello"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vinothbtechit/json-request-validation.git"
+  },
+  "keywords": [
+    "json",
+    "request",
+    "data",
+    "type",
+    "validation",
+    "and",
+    "basic",
+    "validation"
+  ],
+  "author": "Vinoth Arunagiri <vinothbtechit@gmail.com> (http://vinotharunagiri.wordpress.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vinothbtechit/json-request-validation/issues"
+  },
+  "homepage": "https://github.com/vinothbtechit/json-request-validation"
+}
