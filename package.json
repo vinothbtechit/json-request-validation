@@ -1,6 +1,6 @@
 {
   "name": "json-request-validation",
-  "version": "0.0.0",
+  "version": "0.1.1",
   "description": "validate incoming json datatype is string, object, array, empty string, email address.",
   "main": "index.js",
   "scripts": {
